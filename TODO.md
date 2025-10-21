@@ -25,7 +25,7 @@
 
 *   **2.1 User Authentication and Profiles:**
     *   [x] [backend] [frontend] User Registration (email/password)
-    *   [backend] [frontend] User Login/Logout (JWT)
+    *   [x] [backend] [frontend] User Login/Logout (JWT)
     *   [backend] [frontend] User Profiles (display info and contributions)
     *   [backend] [frontend] Password Reset
 *   **2.2 Article Management:**
